@@ -9,7 +9,7 @@ _The content in this repository is for educational purposes only. While efforts 
 ## Contents
 
 - [Malware Analysis Skill Path](./Malware-Analysis/README.md)
-- SOC Analyst Learning Path
+- [SOC Analyst Learning Path](./SOC-Analyst/README.md)  
 
 
 
