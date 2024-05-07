@@ -8,7 +8,7 @@ _The content in this repository is for educational purposes only. While efforts 
 
 ## Contents
 
-- SOC Fundamentals
+- [SOC Fundamentals](./Modules/SOC-Fundamentals.md)
 - Cyber Kill Chain
 - MITRE ATT&CK Framework
 - Phishing Email Analysis
