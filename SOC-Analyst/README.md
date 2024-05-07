@@ -11,7 +11,7 @@ _The content in this repository is for educational purposes only. While efforts 
 - [SOC Fundamentals](./Modules/SOC-Fundamentals.md)
 - Cyber Kill Chain
 - MITRE ATT&CK Framework
-- Phishing Email Analysis
+- [Phishing Email Analysis](./Modules/Phishing-Email-Analysis.md)
 - Detecting Web Attacks
 - Detecting Web Attacks - 2
 - Investigate Web Attack
